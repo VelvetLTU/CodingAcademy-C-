@@ -10,7 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Testing tesing");
             Console.WriteLine("Compiliuojam");
+            Console.ReadLine();
         }
     }
 }
